@@ -1,0 +1,7 @@
+Sales Dashboard Insights
+========================
+
+1. The West region had the highest total sales overall across the two-year period.
+2. Technology category consistently generated the highest profits among all product categories.
+3. A clear sales spike was observed during December of both years, indicating seasonal trends.
+4. South and Central regions showed relatively lower sales performance compared to East and West.
