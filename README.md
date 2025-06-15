@@ -26,4 +26,4 @@ Create a basic interactive sales dashboard using Power BI to show performance by
 1. **Line Chart**: Sales over Month-Year
 2. **Bar Chart**: Sales by Region
 3. **Donut Chart**: Sales by Category
-4. **S
+
